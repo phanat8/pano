@@ -1,0 +1,16 @@
+{
+  "name": "pano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepages": "https://phanat8.github.io/pano",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
